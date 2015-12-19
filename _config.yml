@@ -1,0 +1,28 @@
+name: Brian Wilson
+favicon: null
+layout_spectrum: 0.9065061924047768
+typography_spectrum: 0.42289139959029853
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5770074953325093
+  lightness: 0.5630738374311477
+  saturation: 0.03987089637666941
+  rhythmicContrast: 0.44490652810782194
+purpose: []
