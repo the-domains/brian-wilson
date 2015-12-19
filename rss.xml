@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Brian Wilson]]></title>
+        <description><![CDATA[Brian Wilson]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 19 Dec 2015 06:02:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Brian Wilson]]></title>
+            <description><![CDATA[<h1>Brian Wilson</h1>]]></description>
+            <link>undefinedbrian-wilson/index.html</link>
+            <guid isPermaLink="false">3ec2b3eb-64b0-43a7-b68a-0fdc59074504</guid>
+            <pubDate>Sat, 19 Dec 2015 06:02:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
