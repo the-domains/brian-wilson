@@ -2,12 +2,13 @@ name: Brian Wilson
 favicon: null
 layout_spectrum: 0.9065061924047768
 typography_spectrum: 0.42289139959029853
+title: Brian Wilson for Nevada Senate District 18
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-75178809-1
   facebook: null
   twitter: null
 opengraph:
