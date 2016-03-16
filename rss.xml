@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Brian Wilson]]></title>
-        <description><![CDATA[Brian Wilson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Brian Wilson for Nevada Senate District 18]]></title>
+        <description><![CDATA[Brian Wilson for Nevada Senate District 18]]></description>
+        <link>http://bwilson.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 06:02:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 03:09:38 GMT</lastBuildDate>
+        <atom:link href="http://bwilson.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Brian Wilson]]></title>
-            <description><![CDATA[<h1>Brian Wilson</h1>]]></description>
-            <link>undefinedbrian-wilson/index.html</link>
+            <title><![CDATA[Under Construction]]></title>
+            <description><![CDATA[<article><h1>Under Construction</h1><p>Check back soon!</p></article>]]></description>
+            <link>http://bwilson.com/brian-wilson/index.html</link>
             <guid isPermaLink="false">3ec2b3eb-64b0-43a7-b68a-0fdc59074504</guid>
-            <pubDate>Sat, 19 Dec 2015 06:02:11 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2016 03:09:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
